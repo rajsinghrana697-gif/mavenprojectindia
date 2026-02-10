@@ -1,8 +1,10 @@
-package raj.raja;
+package ranaa.raja;
 
 public class Test {
-    public static  void main(String[] args){
-        Test t = new Test();
+    public static void main(String[] args) {
 
+    }
+
+    private void setPi(double v) {
     }
 }
